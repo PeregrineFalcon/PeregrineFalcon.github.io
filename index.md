@@ -1,4 +1,6 @@
-<iframe src="https://peregrinefalcon.github.io/flutterapp/"></iframe>
+<div>
+    <iframe src="https://peregrinefalcon.github.io/flutter-bio/" width="400" height="600"></iframe>
+</div>
 
 <!-- ## Welcome to GitHub Pages
 
